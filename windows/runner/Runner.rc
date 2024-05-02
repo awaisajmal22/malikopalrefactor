@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.theaccount" "\0"
-            VALUE "FileDescription", "theaccountsnew" "\0"
+            VALUE "CompanyName", "com.malikopal" "\0"
+            VALUE "FileDescription", "malikopalnew" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "theaccountsnew" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 com.theaccount. All rights reserved." "\0"
-            VALUE "OriginalFilename", "theaccountsnew.exe" "\0"
-            VALUE "ProductName", "theaccountsnew" "\0"
+            VALUE "InternalName", "malikopalnew" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 com.malikopal. All rights reserved." "\0"
+            VALUE "OriginalFilename", "malikopalnew.exe" "\0"
+            VALUE "ProductName", "malikopalnew" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

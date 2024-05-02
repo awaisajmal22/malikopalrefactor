@@ -5,22 +5,21 @@ class Endpoints {
 
   static const uploadPicUrl =
       'http://portal.malikopal.com/Home/UpdateProfileImage';
-      // 'https://theaccount.com/Home/UpdateProfileImage';
+     
 
   static const profilePicUrl =
-      // 'https://theaccount.com/Content/Client/ProfileImages/';
+     
       'http://portal.malikopal.com/Content/Client/ProfileImages/';
 
   static const profilePicReqUrl =
 
       ///Content/Client/ProfileImages/
       'http://portal.malikopal.com/Content/Client/ProfileImages/';
-      // 'https://theaccount.com/Content/Client/ProfileImages/';
+     
   static const noProfilePicUrl =
       'http://portal.malikopal.com/Content/Client/img-blue/no-photo.png';
   // static const galleryPicUrl =
-  //     'https://www.theaccount.com/Content/Client/ImageGallery/';
-
+  
   static String rollerOverStatus = "dashboard/allrollover-get";
 
   static String transferdata = "dashboard/transferrollover-get";

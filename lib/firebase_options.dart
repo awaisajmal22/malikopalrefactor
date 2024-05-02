@@ -63,6 +63,6 @@ class DefaultFirebaseOptions {
     messagingSenderId: '71491343879',
     projectId: 'malikopal',
     storageBucket: 'malikopal.appspot.com',
-    iosBundleId: 'com.theaccount.mobileappios',
+    iosBundleId: 'com.malikopal.mobileappios',
   );
 }
