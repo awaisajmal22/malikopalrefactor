@@ -2,22 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CLIENT_ID</key>
-	<string>1017857278653-2vgluaq2r6rd5tvc769n4ml88gebbs4n.apps.googleusercontent.com</string>
-	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1017857278653-2vgluaq2r6rd5tvc769n4ml88gebbs4n</string>
 	<key>API_KEY</key>
-	<string>AIzaSyD1u9dT7dW9_ZahofqbPen1if8nC1akQLI</string>
+	<string>AIzaSyANtFbJGHVI2YarqeEv6arktynhdUtEtm4</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1017857278653</string>
+	<string>71491343879</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.malikopal.mobileappios</string>
 	<key>PROJECT_ID</key>
-	<string>the-malikopal-1a8bf</string>
+	<string>malikopal</string>
 	<key>STORAGE_BUCKET</key>
-	<string>the-malikopal-1a8bf.appspot.com</string>
+	<string>malikopal.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1017857278653:ios:c763af55b19a63046d6dd4</string>
+	<string>1:71491343879:ios:ac470ca3c8ba9eaa1bfca2</string>
 </dict>
 </plist>
