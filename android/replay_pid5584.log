@@ -11413,7 +11413,7 @@ instanceKlass java/io/DataOutput
 instanceKlass java/nio/file/attribute/FileTime
 instanceKlass sun/nio/fs/WindowsNativeDispatcher$CompletionStatus
 instanceKlass sun/nio/fs/WindowsNativeDispatcher$AclInformation
-instanceKlass sun/nio/fs/WindowsNativeDispatcher$Account
+instanceKlass sun/nio/fs/WindowsNativeDispatcher$MalikOpal
 instanceKlass sun/nio/fs/WindowsNativeDispatcher$DiskFreeSpace
 instanceKlass sun/nio/fs/WindowsNativeDispatcher$VolumeInformation
 instanceKlass sun/nio/fs/WindowsNativeDispatcher$QueryDirectoryInformation
